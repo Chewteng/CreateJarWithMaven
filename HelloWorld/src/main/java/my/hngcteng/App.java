@@ -5,7 +5,7 @@ import javax.swing.*;
 public class App extends JFrame
 {
     public App(){
-        setTitle("Hello World");
+        //setTitle("Hello World");
         setSize(600,400);
         setLayout(null);
         setLocationRelativeTo(null);
